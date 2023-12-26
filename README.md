@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # eCommerce App - Segunda Práctica Integradora
 
 Esta es una aplicación de comercio electrónico desarrollada en Node.js.
@@ -15,3 +16,4 @@ Antes de ejecutar la aplicación, asegurate de configurar las variables de entor
 - JWT_CLIENT_SECRET
 
 ## La aplicación estará disponible en http://localhost:8080/
+
